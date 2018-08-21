@@ -1,0 +1,3967 @@
+[
+   {
+      "id": 0,
+      "country": "ARE",
+      "city": "abu dhabi",
+      "lat": 24.453884,
+      "lng": 54.377342,
+      "deans": [
+         "Abdul Qureshi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/513514075763914"
+      }
+   },
+   {
+      "id": 1,
+      "country": "ARG",
+      "city": "Buenos Aires",
+      "lat": -34.603683,
+      "lng": -58.381557,
+      "deans": "Juan Francisco D’Angelo",
+      "facebook": "facebook.com/groups/273587676788169",
+      "meetup": "meetup.com/es/meetup-group-zROpZxkd/"
+   },
+   {
+      "id": 2,
+      "country": "ARG",
+      "city": "Ciudad Autónoma de Buenos Aires",
+      "lat": -34.603683,
+      "lng": -58.381557,
+      "deans": [
+         "Christian Ferreyra"
+      ],
+      "facebook": "facebook.com/groups/273587676788169",
+      "meetup": "meetup.com/es-ES/meetup-group-zROp..."
+   },
+   {
+      "id": 3,
+      "country": "ARG",
+      "city": "Córdoba",
+      "lat": -31.420084,
+      "lng": -64.188774,
+      "deans": [
+         "Emmanuel Arias"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1810489215702247"
+      }
+   },
+   {
+      "id": 4,
+      "country": "ARM",
+      "city": "yerevan",
+      "lat": 40.179184,
+      "lng": 44.499104,
+      "deans": [
+         "Mels Hakobyan"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1254063191416662"
+      }
+   },
+   {
+      "id": 5,
+      "country": "AUS",
+      "city": "Melbourne ",
+      "lat": -37.81363,
+      "lng": 144.96306,
+      "deans": [
+         "Tanveer Bal"
+      ],
+      "meetup": "meetup.com/Melbourne-School-of-AI/"
+   },
+   {
+      "id": 6,
+      "country": "AUT",
+      "city": "vienna",
+      "lat": 48.208176,
+      "lng": 16.37382,
+      "deans": [
+         "Jacobs Edo"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/269360847194260"
+      }
+   },
+   {
+      "id": 7,
+      "country": "BEL",
+      "city": "Antwerp",
+      "lat": 51.219448,
+      "lng": 4.4024644,
+      "deans": [
+         "Stig Bosmans"
+      ],
+      "meetup": "meetup.com/Antwerp-School-of-AI/"
+   },
+   {
+      "id": 8,
+      "country": "BEL",
+      "city": "Jemeppe Sur Sambre",
+      "lat": 50.46309,
+      "lng": 4.678686,
+      "deans": [
+         "Laurent Boucher"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2065459367049998"
+      }
+   },
+   {
+      "id": 9,
+      "country": "BGD",
+      "city": "dhaka",
+      "lat": 23.810331,
+      "lng": 90.41252,
+      "deans": [
+         "Ribeirão Preto",
+         "São Paulo",
+         "aracaju"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1074498706031313"
+      }
+   },
+   {
+      "id": 10,
+      "country": "BIH",
+      "city": "Sarajevo",
+      "lat": 43.85626,
+      "lng": 18.413076,
+      "deans": [
+         "Faik Catibusic"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/517854281998830"
+      }
+   },
+   {
+      "id": 11,
+      "country": "BOL",
+      "city": "Cochabamba ",
+      "lat": -17.413977,
+      "lng": -66.16532,
+      "deans": [
+         "Miguel Angel terrazas meruvia "
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/263217757836106"
+      }
+   },
+   {
+      "id": 12,
+      "country": "BOL",
+      "city": "La Paz",
+      "lat": -16.489689,
+      "lng": -68.11929,
+      "deans": [
+         "Rafael Villca Poggian"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1204328906374103"
+      }
+   },
+   {
+      "id": 13,
+      "country": "BOL",
+      "city": "cochabamba",
+      "lat": -17.413977,
+      "lng": -66.16532,
+      "deans": [
+         "Lesly Sandra Zerna Orellana"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/263217757836106"
+      }
+   },
+   {
+      "id": 14,
+      "country": "BRA",
+      "city": "Belém, PA",
+      "lat": -1.4557292,
+      "lng": -48.490177,
+      "deans": [
+         "Arthur Gonsales da Silva"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1903613986608985"
+      }
+   },
+   {
+      "id": 15,
+      "country": "BRA",
+      "city": "Brasilia",
+      "lat": -15.826691,
+      "lng": -47.92182,
+      "deans": [
+         "Arthur Canotilho Machado"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/spschoolofai"
+      }
+   },
+   {
+      "id": 16,
+      "country": "BRA",
+      "city": "Curitiba",
+      "lat": -25.480877,
+      "lng": -49.304424,
+      "deans": [
+         "Glauter Moulin Coelho"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2266455450243301"
+      }
+   },
+   {
+      "id": 17,
+      "country": "BRA",
+      "city": "Florianópolis",
+      "lat": -27.59487,
+      "lng": -48.548218,
+      "deans": [
+         "Calebe Elias Ribeiro Brim"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/schoolofaifloripa"
+      }
+   },
+   {
+      "id": 18,
+      "country": "BRA",
+      "city": "Goiania",
+      "lat": -16.686897,
+      "lng": -49.264812,
+      "deans": [
+         "Kleyson Rios"
+      ]
+   },
+   {
+      "id": 19,
+      "country": "BRA",
+      "city": "Ribeirão Preto",
+      "lat": -21.1704,
+      "lng": -47.810326,
+      "deans": [
+         "Danilo Renato da Silva"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/257599328189458"
+      }
+   },
+   {
+      "id": 20,
+      "country": "BRA",
+      "city": "São Paulo",
+      "lat": -23.55052,
+      "lng": -46.63331,
+      "deans": [
+         "Cleyton Messias"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/spschoolofai"
+      }
+   },
+   {
+      "id": 21,
+      "country": "BRA",
+      "city": "aracaju",
+      "lat": -10.947247,
+      "lng": -37.073082,
+      "deans": [
+         "Angelo Garangau Menezes"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/ajuschoolofai"
+      }
+   },
+   {
+      "id": 22,
+      "country": "BRA",
+      "city": "aracati",
+      "lat": -4.561209,
+      "lng": -37.76886,
+      "deans": [
+         "SILAS SANTIAGO LOPES PEREIRA"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/243303929846559"
+      }
+   },
+   {
+      "id": 23,
+      "country": "BRA",
+      "city": "belo horizonte",
+      "lat": -19.9173,
+      "lng": -43.93456,
+      "deans": [
+         "Bruno Gomes"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/231689214205431"
+      }
+   },
+   {
+      "id": 24,
+      "country": "BRA",
+      "city": "gameleira",
+      "lat": -19.93191,
+      "lng": -43.98772,
+      "deans": [
+         "Julio Cezar do Nascimento"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/274748976447858"
+      }
+   },
+   {
+      "id": 25,
+      "country": "BRA",
+      "city": "itabira",
+      "lat": -19.624416,
+      "lng": -43.231636,
+      "deans": "João Pedro Areias de Moraes",
+      "social_media": {
+         "facebook": "facebook.com/groups/schoolofaiitabira"
+      }
+   },
+   {
+      "id": 26,
+      "country": "BRA",
+      "city": "manaus",
+      "lat": -3.1190276,
+      "lng": -60.021732,
+      "deans": [
+         "ALESSANDRE MARTINS"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/maoschoolofai"
+      }
+   },
+   {
+      "id": 27,
+      "country": "BRA",
+      "city": "porto alegre",
+      "lat": -30.034647,
+      "lng": -51.21766,
+      "deans": [
+         "Alessandro Cauduro"
+      ]
+   },
+   {
+      "id": 28,
+      "country": "BRA",
+      "city": "recife",
+      "lat": -8.05224,
+      "lng": -34.928608,
+      "deans": "Mávio Eduardo Azevedo Bispo",
+      "social_media": {
+         "facebook": "facebook.com/groups/322032781869481"
+      }
+   },
+   {
+      "id": 29,
+      "country": "BRA",
+      "city": "são josé dos campos",
+      "lat": -23.223701,
+      "lng": -45.900906,
+      "deans": [
+         "Andre Luiz Emidio Junior"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1155902067896596"
+      }
+   },
+   {
+      "id": 30,
+      "country": "BRA",
+      "city": "são paulo",
+      "lat": -23.55052,
+      "lng": -46.63331,
+      "deans": "Flávio Grassi",
+      "social_media": {
+         "facebook": "facebook.com/groups/spschoolofai"
+      }
+   },
+   {
+      "id": 31,
+      "country": "CAN",
+      "city": "Mississauga",
+      "lat": 43.589046,
+      "lng": -79.64412,
+      "deans": [
+         "Hammad Shaikh"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/MississaugaSch..."
+      }
+   },
+   {
+      "id": 32,
+      "country": "CAN",
+      "city": "Toronto",
+      "lat": 43.653225,
+      "lng": -79.38319,
+      "deans": [
+         "Tanzim Saqib"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/TorontoSchoolo..."
+      }
+   },
+   {
+      "id": 33,
+      "country": "CAN",
+      "city": "Vancouver",
+      "lat": 49.28273,
+      "lng": -123.120735,
+      "deans": [
+         "Johannes Harmse"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/991378534367193"
+      }
+   },
+   {
+      "id": 34,
+      "country": "CAN",
+      "city": "Vaughan",
+      "lat": 43.785976,
+      "lng": -79.47801,
+      "deans": [
+         "Nikita Varabei"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2137833136478905",
+         "meetup": "meetup.com/Vaughan-School-of-AI"
+      }
+   },
+   {
+      "id": 35,
+      "country": "CAN",
+      "city": "regina",
+      "lat": 50.44521,
+      "lng": -104.6189,
+      "deans": [
+         "John Hashem"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/21200480625138..."
+      }
+   },
+   {
+      "id": 36,
+      "country": "CAN",
+      "city": "toronto",
+      "lat": 43.653225,
+      "lng": -79.38319,
+      "deans": [
+         "Tanzim Saqib"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/TorontoSchoolo..."
+      }
+   },
+   {
+      "id": 37,
+      "country": "CHE",
+      "city": "Bern",
+      "lat": 46.947975,
+      "lng": 7.447447,
+      "deans": [
+         "Luca Kern"
+      ],
+      "social_media": {
+         "meetup": "meetup.com/Bern-Artificial-Intelli..."
+      }
+   },
+   {
+      "id": 38,
+      "country": "CHE",
+      "city": "Zurich",
+      "lat": 47.37689,
+      "lng": 8.541694,
+      "deans": [
+         "Dmitri Paley"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/913190355555507"
+      }
+   },
+   {
+      "id": 39,
+      "country": "CHE",
+      "city": "lausanne",
+      "lat": 46.519653,
+      "lng": 6.632273,
+      "deans": [
+         "George Chogovadze"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/283645769090944"
+      }
+   },
+   {
+      "id": 40,
+      "country": "CHN",
+      "city": "beijing",
+      "lat": 39.9042,
+      "lng": 116.407394,
+      "deans": [
+         "ShizheDiao"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/17882716279534..."
+      }
+   },
+   {
+      "id": 41,
+      "country": "CHN",
+      "city": "chengdu",
+      "lat": 30.572815,
+      "lng": 104.0668,
+      "deans": [
+         "Syed Falahuddin Quadri"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/517351098699455"
+      }
+   },
+   {
+      "id": 42,
+      "country": "CHN",
+      "city": "dongguan",
+      "lat": 23.020674,
+      "lng": 113.7518,
+      "deans": [
+         "Jess Yuan"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/DongguangSchoo..."
+      }
+   },
+   {
+      "id": 43,
+      "country": "CMR",
+      "city": "Douala",
+      "lat": 4.0510564,
+      "lng": 9.767869,
+      "deans": [
+         "Ngong Constantine Mbufung"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/doualaschoolofai"
+      }
+   },
+   {
+      "id": 44,
+      "country": "COD",
+      "city": "Goma",
+      "lat": -1.658501,
+      "lng": 29.220455,
+      "deans": [
+         "Guillain BISIMWA"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2130671163873375"
+      }
+   },
+   {
+      "id": 45,
+      "country": "COL",
+      "city": "Barranquilla",
+      "lat": 11.004107,
+      "lng": -74.806984,
+      "deans": [
+         "Ricardo Pretelt "
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/649987352053419"
+      }
+   },
+   {
+      "id": 46,
+      "country": "COL",
+      "city": "bucaramanga",
+      "lat": 7.119349,
+      "lng": -73.12274,
+      "deans": "Ariel Ortiz Beltrán",
+      "social_media": {
+         "facebook": "facebook.com/groups/229180794466712"
+      }
+   },
+   {
+      "id": 47,
+      "country": "DEU",
+      "city": "Berlin",
+      "lat": 52.520008,
+      "lng": 13.404954,
+      "deans": [
+         "Würzburg",
+         "ilmenau"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/BerlinSchoolOfAI"
+      }
+   },
+   {
+      "id": 48,
+      "country": "DEU",
+      "city": "Darmstadt",
+      "lat": 49.872826,
+      "lng": 8.651193,
+      "deans": [
+         "Christian Beckmann"
+      ],
+      "meetup": "meetup.com/de-DE/Darmstadt-School-..."
+   },
+   {
+      "id": 49,
+      "country": "DEU",
+      "city": "Gießen",
+      "lat": 50.584053,
+      "lng": 8.678403,
+      "deans": [
+         "Bilal Karim Reffas"
+      ],
+      "meetup": "meetup.com/register/?ctx=ref"
+   },
+   {
+      "id": 50,
+      "country": "DEU",
+      "city": "Hamburg",
+      "lat": 53.551086,
+      "lng": 9.993682,
+      "deans": "Christoph Könning",
+      "facebook": "facebook.com/groups/233478970705025",
+      "meetup": "meetup.com/Hamburg-School-of-AI/"
+   },
+   {
+      "id": 51,
+      "country": "DEU",
+      "city": "Heidenheim an der Brenz",
+      "lat": 48.689396,
+      "lng": 10.161095,
+      "deans": [
+         "Korbinian Hitthaler"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/307046433400734"
+      }
+   },
+   {
+      "id": 52,
+      "country": "DEU",
+      "city": "Hildesheim",
+      "lat": 52.154778,
+      "lng": 9.957965,
+      "deans": [
+         "Marcel Heinz"
+      ],
+      "meetup": "meetup.com/Hildesheim-School-of-AI/"
+   },
+   {
+      "id": 53,
+      "country": "DEU",
+      "city": "Lübeck",
+      "lat": 53.865467,
+      "lng": 10.68656,
+      "deans": [
+         "Alex Divivi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2109036949371017"
+      }
+   },
+   {
+      "id": 54,
+      "country": "DEU",
+      "city": "Munich",
+      "lat": 48.135124,
+      "lng": 11.581981,
+      "deans": [
+         "Ishmeet Kaur"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/316494025765420"
+      }
+   },
+   {
+      "id": 55,
+      "country": "DEU",
+      "city": "Münster",
+      "lat": 51.960667,
+      "lng": 7.626135,
+      "deans": [
+         "Tim Hahn"
+      ],
+      "social_media": {
+         "meetup": "meetup.com/nan"
+      }
+   },
+   {
+      "id": 56,
+      "country": "DEU",
+      "city": "Stuttgart",
+      "lat": 48.775845,
+      "lng": 9.182932,
+      "deans": [
+         "Yusun Liu"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2070293823028402"
+      }
+   },
+   {
+      "id": 57,
+      "country": "DEU",
+      "city": "Trier",
+      "lat": 49.749992,
+      "lng": 6.637143,
+      "deans": [
+         "Premtim Sahitaj"
+      ],
+      "meetup": "meetup.com/Trier-School-of-AI/"
+   },
+   {
+      "id": 58,
+      "country": "DEU",
+      "city": "Vallendar",
+      "lat": 50.397137,
+      "lng": 7.622022,
+      "deans": "Leander Märkisch",
+      "social_media": {
+         "facebook": "facebook.com/groups/298298054263873"
+      }
+   },
+   {
+      "id": 59,
+      "country": "DEU",
+      "city": "Würzburg",
+      "lat": 49.791306,
+      "lng": 9.953355,
+      "deans": "Dr. Tristan Behrens",
+      "social_media": {
+         "facebook": "facebook.com/groups/2194416527258170"
+      }
+   },
+   {
+      "id": 60,
+      "country": "DEU",
+      "city": "ilmenau",
+      "lat": 50.68435,
+      "lng": 10.925473,
+      "deans": [
+         "Mario Schroeder"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1967306339958567..."
+      }
+   },
+   {
+      "id": 61,
+      "country": "DEU",
+      "city": "karlsruhe",
+      "lat": 49.00689,
+      "lng": 8.403653,
+      "deans": [
+         "helsinki",
+         "suva"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2234303310135527"
+      }
+   },
+   {
+      "id": 62,
+      "country": "DEU",
+      "city": "kleve",
+      "lat": 51.786728,
+      "lng": 6.12954,
+      "deans": [
+         "Arunjoy Bnaerjee"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/90522637300256..."
+      }
+   },
+   {
+      "id": 63,
+      "country": "DEU",
+      "city": "munich",
+      "lat": 48.135124,
+      "lng": 11.581981,
+      "deans": [
+         "Anant Nawalgaria"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/316494025765420"
+      }
+   },
+   {
+      "id": 64,
+      "country": "DZA",
+      "city": "Mostaganem",
+      "lat": 36.013123,
+      "lng": 0.1401381,
+      "deans": [
+         "Amina Delali"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/505018559960282"
+      }
+   },
+   {
+      "id": 65,
+      "country": "DZA",
+      "city": "algiers",
+      "lat": 36.75377,
+      "lng": 3.058756,
+      "deans": [
+         "Lyon 01",
+         "le mans"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/244726382840305"
+      }
+   },
+   {
+      "id": 66,
+      "country": "ECU",
+      "city": "quito",
+      "lat": -0.1806532,
+      "lng": -78.467834,
+      "deans": "Jorge Cañizares",
+      "social_media": {
+         "facebook": "facebook.com/groups/261376047806170"
+      }
+   },
+   {
+      "id": 67,
+      "country": "EGY",
+      "city": "Ismailia",
+      "lat": 30.596493,
+      "lng": 32.271458,
+      "deans": [
+         "kareem hesham elsafty"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/210017643200531"
+      }
+   },
+   {
+      "id": 68,
+      "country": "EGY",
+      "city": "cairo",
+      "lat": 30.04442,
+      "lng": 31.235712,
+      "deans": [
+         "toulon",
+         "toulouse"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/CairoSchoolOfAI"
+      }
+   },
+   {
+      "id": 69,
+      "country": "ESP",
+      "city": "Málaga",
+      "lat": 36.721275,
+      "lng": -4.4213986,
+      "deans": [
+         "Carlos Morente Lozano"
+      ],
+      "social_media": {
+         "meetup": "meetup.com/MalagaSchoolOfAI"
+      }
+   },
+   {
+      "id": 70,
+      "country": "ESP",
+      "city": "Valencia",
+      "lat": 39.469906,
+      "lng": -0.3762881,
+      "deans": [
+         "Juan Eslem Alzate Zabala"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/302152843664687"
+      }
+   },
+   {
+      "id": 71,
+      "country": "ESP",
+      "city": "alicante",
+      "lat": 38.345997,
+      "lng": -0.4906855,
+      "deans": [
+         "Gonzalo Molina Gallego"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/alicanteschool..."
+      }
+   },
+   {
+      "id": 72,
+      "country": "EST",
+      "city": "tartu",
+      "lat": 58.377983,
+      "lng": 26.729038,
+      "deans": [
+         "Jaan Olev"
+      ],
+      "meetup": "meetup.com/Tartu-School-of-AI-Meetup/"
+   },
+   {
+      "id": 73,
+      "country": "FIN",
+      "city": "Jyvaskyla",
+      "lat": 62.242603,
+      "lng": 25.747257,
+      "deans": [
+         "Jussi Seppala"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/jklschoolofai"
+      }
+   },
+   {
+      "id": 74,
+      "country": "FIN",
+      "city": "helsinki",
+      "lat": 60.169857,
+      "lng": 24.93838,
+      "deans": [
+         "Aditya Jitta"
+      ],
+      "meetup": "meetup.com/Helsinki-School-of-AI/"
+   },
+   {
+      "id": 75,
+      "country": "FJI",
+      "city": "suva",
+      "lat": -18.12481,
+      "lng": 178.45007,
+      "deans": [
+         "Wafaa Wardah"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/school.of.ai.s..."
+      }
+   },
+   {
+      "id": 76,
+      "country": "FRA",
+      "city": "Bordeaux",
+      "lat": 44.837788,
+      "lng": -0.57918,
+      "deans": "Rémi Caland",
+      "meetup": "meetup.com/fr-FR/bordeaux-school-ai/"
+   },
+   {
+      "id": 77,
+      "country": "FRA",
+      "city": "Clermont-Ferrand",
+      "lat": 45.77722,
+      "lng": 3.087025,
+      "deans": [
+         "Mehdi Mounsif"
+      ],
+      "social_media": {
+         "meetup": "meetup.com/Clermont-Ferrand-School..."
+      }
+   },
+   {
+      "id": 78,
+      "country": "FRA",
+      "city": "Grenoble",
+      "lat": 45.18853,
+      "lng": 5.724524,
+      "deans": [
+         "Miguel Solinas"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1129647340509241"
+      }
+   },
+   {
+      "id": 79,
+      "country": "FRA",
+      "city": "Lyon 01",
+      "lat": 45.771294,
+      "lng": 4.828083,
+      "deans": [
+         "Jimmy BRUMANT"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1383042605195426"
+      }
+   },
+   {
+      "id": 80,
+      "country": "FRA",
+      "city": "le mans",
+      "lat": 48.00611,
+      "lng": 0.199556,
+      "deans": [
+         "Vincent Porte"
+      ],
+      "meetup": "meetup.com/fr-FR/Le-Mans-School-of..."
+   },
+   {
+      "id": 81,
+      "country": "FRA",
+      "city": "montpellier",
+      "lat": 43.610767,
+      "lng": 3.876716,
+      "deans": [
+         "Lemonnier Nils"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1912449345726893"
+      }
+   },
+   {
+      "id": 82,
+      "country": "FRA",
+      "city": "paris",
+      "lat": 48.856613,
+      "lng": 2.352222,
+      "deans": [
+         "JAMBI",
+         "gorontalo",
+         "Abdul Qureshi",
+         "Juan Francisco D’Angelo"
+      ],
+      "facebook": "facebook.com/groups/1950125778619696",
+      "meetup": "meetup.com/fr-FR/Paris-School-of-AI/"
+   },
+   {
+      "id": 83,
+      "country": "FRA",
+      "city": "toulon",
+      "lat": 43.12423,
+      "lng": 5.928,
+      "deans": [
+         "Bastien Chapuis"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1623958224392622"
+      }
+   },
+   {
+      "id": 84,
+      "country": "FRA",
+      "city": "toulouse",
+      "lat": 43.604652,
+      "lng": 1.444209,
+      "deans": [
+         "ALI KORSI"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/673351983035675"
+      }
+   },
+   {
+      "id": 85,
+      "country": "GBR",
+      "city": "Bath and South West England",
+      "lat": 51.381065,
+      "lng": -2.3590167,
+      "deans": [
+         "Tristan Hosken"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1193070210849551"
+      }
+   },
+   {
+      "id": 86,
+      "country": "GBR",
+      "city": "Cardiff",
+      "lat": 51.481583,
+      "lng": -3.17909,
+      "deans": [
+         "Ka Joon Chin"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2092920414294846"
+      }
+   },
+   {
+      "id": 87,
+      "country": "GBR",
+      "city": "Lancaster",
+      "lat": 54.09829,
+      "lng": -2.6943295,
+      "deans": [
+         "Piotr Wiercinski"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/305677753534182"
+      }
+   },
+   {
+      "id": 88,
+      "country": "GBR",
+      "city": "London",
+      "lat": 51.50735,
+      "lng": -0.1277583,
+      "deans": [
+         "Riyan Moussaoui"
+      ]
+   },
+   {
+      "id": 89,
+      "country": "GEO",
+      "city": "tbilisi",
+      "lat": 41.715137,
+      "lng": 44.827095,
+      "deans": [
+         "Ioseb Khutsishvili"
+      ],
+      "meetup": "meetup.com/Tbilisi-School-of-AI/"
+   },
+   {
+      "id": 90,
+      "country": "GHA",
+      "city": "Ashesi",
+      "lat": 5.7597713,
+      "lng": -0.2197398,
+      "deans": "Gbètondji Dovonon ",
+      "social_media": {
+         "facebook": "facebook.com/groups/261533141350121"
+      }
+   },
+   {
+      "id": 91,
+      "country": "GHA",
+      "city": "accra",
+      "lat": 5.603717,
+      "lng": -0.1869644,
+      "deans": [
+         "Angela Munyao"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/522325514885355"
+      }
+   },
+   {
+      "id": 92,
+      "country": "GTM",
+      "city": "Guatemala City",
+      "lat": 14.634915,
+      "lng": -90.50688,
+      "deans": [
+         "David Alejandro Divas Cruz"
+      ],
+      "facebook": "facebook.com/groups/gtschoolofai",
+      "meetup": "meetup.com/Guatemala-School-of-AI/"
+   },
+   {
+      "id": 93,
+      "country": "GTM",
+      "city": "guatemala city",
+      "lat": 14.634915,
+      "lng": -90.50688,
+      "deans": [
+         "David Alejandro Divas Cruz"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/19479769288333..."
+      }
+   },
+   {
+      "id": 94,
+      "country": "HKG",
+      "city": "hong kong",
+      "lat": 22.308046,
+      "lng": 113.91848,
+      "deans": [
+         "Martin Liu"
+      ],
+      "meetup": "meetup.com/Hong-Kong-School-of-AI/"
+   },
+   {
+      "id": 95,
+      "country": "HND",
+      "city": "Tegucigalpa",
+      "lat": 14.072275,
+      "lng": -87.19214,
+      "deans": "Nestor Ramón Escoto Padilla",
+      "social_media": {
+         "facebook": "facebook.com/groups/aitegucigalpa"
+      }
+   },
+   {
+      "id": 96,
+      "country": "HUN",
+      "city": "Budapest",
+      "lat": 47.497913,
+      "lng": 19.040236,
+      "deans": "Kövesd Viktor  and Horváth Péter ",
+      "meetup": "meetup.com/School-of-AI-Budapest/"
+   },
+   {
+      "id": 97,
+      "country": "HUN",
+      "city": "Veszprem",
+      "lat": 47.10281,
+      "lng": 17.909302,
+      "deans": [
+         "Tibor Ormosi"
+      ],
+      "meetup": "meetup.com/Veszprem-Sch­ool-of-AI/"
+   },
+   {
+      "id": 98,
+      "country": "IDN",
+      "city": "JAMBI",
+      "lat": -1.6101229,
+      "lng": 103.61312,
+      "deans": [
+         "BOS ASMAN"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/890172784514683"
+      }
+   },
+   {
+      "id": 99,
+      "country": "IDN",
+      "city": "gorontalo",
+      "lat": 0.6999372,
+      "lng": 122.446724,
+      "deans": [
+         "Riska Kurnianto Abdullah"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/247923479164946"
+      }
+   },
+   {
+      "id": 100,
+      "country": "IDN",
+      "city": "jakarta",
+      "lat": -6.17511,
+      "lng": 106.865036,
+      "deans": [
+         "Haries Ramdhani"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/232323780810295"
+      }
+   },
+   {
+      "id": 101,
+      "country": "IOT",
+      "city": "Agartala",
+      "lat": 23.844715,
+      "lng": 91.4285,
+      "deans": [
+         "Sravanth baratam"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/AgartalaSchool..."
+      }
+   },
+   {
+      "id": 102,
+      "country": "IOT",
+      "city": "Agra",
+      "lat": 27.17667,
+      "lng": 78.00807,
+      "deans": [
+         "Agyeya Dutta"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2102343933363054"
+      }
+   },
+   {
+      "id": 103,
+      "country": "IOT",
+      "city": "Ahmedabad",
+      "lat": 23.00971,
+      "lng": 72.50569,
+      "deans": [
+         "Urvish Patel"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/315624655669323"
+      }
+   },
+   {
+      "id": 104,
+      "country": "IOT",
+      "city": "Ajmer",
+      "lat": 26.449896,
+      "lng": 74.639915,
+      "deans": [
+         "Mahendra Bishnoi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/schoolofaiajmer"
+      }
+   },
+   {
+      "id": 105,
+      "country": "IOT",
+      "city": "Ambala",
+      "lat": 30.37818,
+      "lng": 76.776695,
+      "deans": [
+         "Bharat Kumar"
+      ],
+      "social_media": {
+         "meetup": "meetup.com/marwari"
+      }
+   },
+   {
+      "id": 106,
+      "country": "IOT",
+      "city": "Amritsar",
+      "lat": 31.650045,
+      "lng": 74.86434,
+      "deans": [
+         "Puneet Saini"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/SchoolOfAIAsr"
+      }
+   },
+   {
+      "id": 107,
+      "country": "IOT",
+      "city": "Bengaluru",
+      "lat": 12.959954,
+      "lng": 77.64337,
+      "deans": [
+         "Amogh Sharma"
+      ],
+      "facebook": "facebook.com/groups/458978281238679",
+      "meetup": "meetup.com/Bengaluru-School-of-AI/..."
+   },
+   {
+      "id": 108,
+      "country": "IOT",
+      "city": "Bhubaneswar",
+      "lat": 20.210585,
+      "lng": 85.85473,
+      "deans": [
+         "Pravin Vedurla"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/424214141434174"
+      }
+   },
+   {
+      "id": 109,
+      "country": "IOT",
+      "city": "Chennai",
+      "lat": 12.93606,
+      "lng": 80.20914,
+      "deans": [
+         "Gogul Ilango"
+      ],
+      "meetup": "meetup.com/Chennai-School-of-AI/"
+   },
+   {
+      "id": 110,
+      "country": "IOT",
+      "city": "Coimbatore",
+      "lat": 11.010002,
+      "lng": 77.078865,
+      "deans": [
+         "Andre Luiz Emidio Junior",
+         "Flávio Grassi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/277989039466620"
+      }
+   },
+   {
+      "id": 111,
+      "country": "IOT",
+      "city": "Dehradun",
+      "lat": 30.36677,
+      "lng": 78.09157,
+      "deans": [
+         "Avik Jain"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/440065713068018"
+      }
+   },
+   {
+      "id": 112,
+      "country": "IOT",
+      "city": "Ernakulam",
+      "lat": 9.995731,
+      "lng": 76.29215,
+      "deans": [
+         "Vishal Borana"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/708357919500071"
+      }
+   },
+   {
+      "id": 113,
+      "country": "IOT",
+      "city": "GANDHINAGAR",
+      "lat": 23.259253,
+      "lng": 72.63823,
+      "deans": [
+         "Raunak Swarnkar"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/GandhinagarAIS..."
+      }
+   },
+   {
+      "id": 114,
+      "country": "IOT",
+      "city": "Goa",
+      "lat": 15.343385,
+      "lng": 73.93162,
+      "deans": [
+         "Ashutosh Kumar"
+      ],
+      "meetup": "meetup.com/Goa-School-of-AI/"
+   },
+   {
+      "id": 115,
+      "country": "IOT",
+      "city": "Gulbarga, Karnataka",
+      "lat": 17.329731,
+      "lng": 76.8343,
+      "deans": [
+         "Bhargav A Kalaskar"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/731708620494942"
+      }
+   },
+   {
+      "id": 116,
+      "country": "IOT",
+      "city": "Gurgaon",
+      "lat": 28.459497,
+      "lng": 77.02664,
+      "deans": [
+         "Deepak Prakash Sorari"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/schoolofaigurgaon"
+      }
+   },
+   {
+      "id": 117,
+      "country": "IOT",
+      "city": "Gwalior",
+      "lat": 26.261906,
+      "lng": 78.15617,
+      "deans": [
+         "Atul Anand "
+      ]
+   },
+   {
+      "id": 118,
+      "country": "IOT",
+      "city": "Hubli",
+      "lat": 15.364708,
+      "lng": 75.123955,
+      "deans": [
+         "CHANDAN MISHRA"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1871918046187846"
+      }
+   },
+   {
+      "id": 119,
+      "country": "IOT",
+      "city": "Hyderabad",
+      "lat": 17.415054,
+      "lng": 78.45759,
+      "deans": [
+         "George Chogovadze",
+         "ShizheDiao"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1098674240282706"
+      }
+   },
+   {
+      "id": 120,
+      "country": "IOT",
+      "city": "Jabalpur",
+      "lat": 23.170181,
+      "lng": 79.91018,
+      "deans": [
+         "Vibhav Tiwari"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/SchoolofAIJaba..."
+      }
+   },
+   {
+      "id": 121,
+      "country": "IOT",
+      "city": "Jaipur",
+      "lat": 26.862213,
+      "lng": 75.7923,
+      "deans": [
+         "Jess Yuan",
+         "Ngong Constantine Mbufung"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/schoolofaijaipur"
+      }
+   },
+   {
+      "id": 122,
+      "country": "IOT",
+      "city": "Jalandhar",
+      "lat": 31.30463,
+      "lng": 75.59616,
+      "deans": [
+         "Mohammad Ashar Khan"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2010932775607270"
+      }
+   },
+   {
+      "id": 123,
+      "country": "IOT",
+      "city": "Kakinada",
+      "lat": 16.989065,
+      "lng": 82.24747,
+      "deans": [
+         "Ricardo Pretelt ",
+         "Ariel Ortiz Beltrán"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/kakinada.schoo..."
+      }
+   },
+   {
+      "id": 124,
+      "country": "IOT",
+      "city": "Kanpur Nagar",
+      "lat": 0,
+      "lng": 0,
+      "deans": [
+         "Himanshu Awasthi"
+      ],
+      "facebook": "facebook.com/groups/KanpurAI",
+      "meetup": "meetup.com/Kanpur-School-of-AI/"
+   },
+   {
+      "id": 125,
+      "country": "IOT",
+      "city": "Karnal",
+      "lat": 29.685694,
+      "lng": 76.990486,
+      "deans": [
+         "Mukul Sharma"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/karnalschoolofai"
+      }
+   },
+   {
+      "id": 126,
+      "country": "IOT",
+      "city": "Lucknow",
+      "lat": 26.83535,
+      "lng": 80.93386,
+      "deans": [
+         "Shikhar Shukla"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/163759261114229"
+      }
+   },
+   {
+      "id": 127,
+      "country": "IOT",
+      "city": "Madurai",
+      "lat": 9.940402,
+      "lng": 78.12897,
+      "deans": [
+         "VENKATRAMAN A"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/madurai.school..."
+      }
+   },
+   {
+      "id": 128,
+      "country": "IOT",
+      "city": "Mangalore",
+      "lat": 12.914142,
+      "lng": 74.85596,
+      "deans": [
+         "Shreyas Baliga"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/MlrSchoolofAI"
+      }
+   },
+   {
+      "id": 129,
+      "country": "IOT",
+      "city": "Meerut",
+      "lat": 28.984463,
+      "lng": 77.70641,
+      "deans": [
+         "Akshay Chaudhary"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/meerut.schoolOfAI",
+         "meetup": "meetup.com/meerut-school-of-ai"
+      }
+   },
+   {
+      "id": 130,
+      "country": "IOT",
+      "city": "Mumbai",
+      "lat": 19.153412,
+      "lng": 72.94485,
+      "deans": [
+         "Anand Sonawane"
+      ],
+      "facebook": "facebook.com/groups/1622455081386835",
+      "meetup": "meetup.com/Mumbai-School-of-AI/"
+   },
+   {
+      "id": 131,
+      "country": "IOT",
+      "city": "Nagpur",
+      "lat": 21.165422,
+      "lng": 79.08182,
+      "deans": [
+         "Anshul Piperde"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/243781973125799"
+      }
+   },
+   {
+      "id": 132,
+      "country": "IOT",
+      "city": "Nashik",
+      "lat": 19.999231,
+      "lng": 73.754074,
+      "deans": [
+         "Shantanu Suryawanshi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/293934121188152"
+      }
+   },
+   {
+      "id": 133,
+      "country": "IOT",
+      "city": "Nellore",
+      "lat": 14.442598,
+      "lng": 79.98646,
+      "deans": [
+         "Yaswanth Sai Palaghat "
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2093326167588711..."
+      }
+   },
+   {
+      "id": 134,
+      "country": "IOT",
+      "city": "Patna",
+      "lat": 25.601263,
+      "lng": 85.17524,
+      "deans": [
+         "VISHAL PANDEY"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/562364684187569"
+      }
+   },
+   {
+      "id": 135,
+      "country": "IOT",
+      "city": "Patna, Vihar",
+      "lat": 25.601263,
+      "lng": 85.17524,
+      "deans": [
+         "VISHAL PANDEY"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/562364684187569"
+      }
+   },
+   {
+      "id": 136,
+      "country": "IOT",
+      "city": "Pune",
+      "lat": 18.609476,
+      "lng": 73.78431,
+      "deans": [
+         "Dr. Tristan Behrens",
+         "Mario Schroeder"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/puneschoolofai"
+      }
+   },
+   {
+      "id": 137,
+      "country": "IOT",
+      "city": "Pune & Solapur",
+      "lat": 18.503326,
+      "lng": 73.92251,
+      "deans": [
+         "GuruRaj Awate"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/SchoolofAI.Ind..."
+      }
+   },
+   {
+      "id": 138,
+      "country": "IOT",
+      "city": "Rajkot",
+      "lat": 22.290728,
+      "lng": 70.763885,
+      "deans": [
+         "Arunjoy Bnaerjee",
+         "Anant Nawalgaria"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/Rajkot.Wizards"
+      }
+   },
+   {
+      "id": 139,
+      "country": "IOT",
+      "city": "SURAT",
+      "lat": 21.184761,
+      "lng": 72.83476,
+      "deans": [
+         "Goti ritul bhagvanbhai"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/228420234513756"
+      }
+   },
+   {
+      "id": 140,
+      "country": "IOT",
+      "city": "Siliguri",
+      "lat": 26.7271,
+      "lng": 88.39529,
+      "deans": [
+         [
+            "Lyon 01",
+            "le mans"
+         ],
+         "Jorge Cañizares"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/695500400788713"
+      }
+   },
+   {
+      "id": 141,
+      "country": "IOT",
+      "city": "TRIVANDRUM",
+      "lat": 8.561081,
+      "lng": 76.87723,
+      "deans": [
+         "ROBIN RENI"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2185077748487523"
+      }
+   },
+   {
+      "id": 142,
+      "country": "IOT",
+      "city": "Thadepalligudem",
+      "lat": 16.81384,
+      "lng": 81.52124,
+      "deans": [
+         "Mehant kammakomati"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/APSchoolOfAI"
+      }
+   },
+   {
+      "id": 143,
+      "country": "IOT",
+      "city": "Thiruthangal",
+      "lat": 9.480746,
+      "lng": 77.808136,
+      "deans": [
+         "Karthikeyan"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/331708537371036"
+      }
+   },
+   {
+      "id": 144,
+      "country": "IOT",
+      "city": "Tumkur",
+      "lat": 13.339168,
+      "lng": 77.114,
+      "deans": [
+         "Abhinav Kumar Mallick"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1864986780251717"
+      }
+   },
+   {
+      "id": 145,
+      "country": "IOT",
+      "city": "Udaipur",
+      "lat": 24.583143,
+      "lng": 73.70959,
+      "deans": [
+         "Ankit Pachauri"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/GandhinagarAIS..."
+      }
+   },
+   {
+      "id": 146,
+      "country": "IOT",
+      "city": "Vadodara",
+      "lat": 22.317919,
+      "lng": 73.13709,
+      "deans": [
+         "Jaan Olev",
+         "Jussi Seppala"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/538802816540858"
+      }
+   },
+   {
+      "id": 147,
+      "country": "IOT",
+      "city": "Vellore",
+      "lat": 12.939274,
+      "lng": 79.16858,
+      "deans": [
+         "Mohamed Hashim"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2085048905144761"
+      }
+   },
+   {
+      "id": 148,
+      "country": "IOT",
+      "city": "Vijayawada",
+      "lat": 16.502945,
+      "lng": 80.64314,
+      "deans": [
+         "Wafaa Wardah",
+         "Rémi Caland"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/APSchoolOfAI"
+      }
+   },
+   {
+      "id": 149,
+      "country": "IOT",
+      "city": "ahmedabad",
+      "lat": 23.00971,
+      "lng": 72.50569,
+      "deans": [
+         "Tinoo Sukhadia"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/SchoolofAI"
+      }
+   },
+   {
+      "id": 150,
+      "country": "IOT",
+      "city": "bareilly",
+      "lat": 28.367035,
+      "lng": 79.430435,
+      "deans": [
+         "Himanshu Kumar"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2152172591728608"
+      }
+   },
+   {
+      "id": 151,
+      "country": "IOT",
+      "city": "bengaluru",
+      "lat": 12.959954,
+      "lng": 77.64337,
+      "deans": [
+         "Jimmy BRUMANT",
+         "Vincent Porte"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/458978281238679"
+      }
+   },
+   {
+      "id": 152,
+      "country": "IOT",
+      "city": "chennai",
+      "lat": 12.93606,
+      "lng": 80.20914,
+      "deans": [
+         "Lemonnier Nils",
+         [
+            "JAMBI",
+            "gorontalo",
+            "Abdul Qureshi",
+            "Juan Francisco D’Angelo"
+         ]
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2081058995489365"
+      }
+   },
+   {
+      "id": 153,
+      "country": "IOT",
+      "city": "coimbatore",
+      "lat": 11.010002,
+      "lng": 77.078865,
+      "deans": [
+         "sarvade sai sankeerth"
+      ]
+   },
+   {
+      "id": 154,
+      "country": "IOT",
+      "city": "delhi",
+      "lat": 28.55057,
+      "lng": 77.270744,
+      "deans": [
+         "Ravinder Bhattoo"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/443357789506132"
+      }
+   },
+   {
+      "id": 155,
+      "country": "IOT",
+      "city": "greater noida",
+      "lat": 28.470766,
+      "lng": 77.51066,
+      "deans": [
+         "Kaushal Sharma"
+      ]
+   },
+   {
+      "id": 156,
+      "country": "IOT",
+      "city": "guwahati",
+      "lat": 26.187859,
+      "lng": 91.69158,
+      "deans": [
+         "Ka Joon Chin",
+         "Piotr Wiercinski"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/618705281856371"
+      }
+   },
+   {
+      "id": 157,
+      "country": "IOT",
+      "city": "gwalior",
+      "lat": 26.261906,
+      "lng": 78.15617,
+      "deans": [
+         "Harsh Shrivastava"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/317541345655958"
+      }
+   },
+   {
+      "id": 158,
+      "country": "IOT",
+      "city": "indore",
+      "lat": 22.753593,
+      "lng": 75.896935,
+      "deans": [
+         "Chandravardhan Singh"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/18553797045295..."
+      }
+   },
+   {
+      "id": 159,
+      "country": "IOT",
+      "city": "jaipur",
+      "lat": 26.862213,
+      "lng": 75.7923,
+      "deans": [
+         "Gbètondji Dovonon ",
+         "Angela Munyao"
+      ]
+   },
+   {
+      "id": 160,
+      "country": "IOT",
+      "city": "kolkata",
+      "lat": 22.46951,
+      "lng": 88.404366,
+      "deans": [
+         "David Alejandro Divas Cruz",
+         "David Alejandro Divas Cruz"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2122735824635205"
+      }
+   },
+   {
+      "id": 161,
+      "country": "IOT",
+      "city": "lucknow",
+      "lat": 26.846693,
+      "lng": 80.94617,
+      "deans": [
+         "Nitin Gupta"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/163759261114229"
+      }
+   },
+   {
+      "id": 162,
+      "country": "IOT",
+      "city": "meerut",
+      "lat": 28.984463,
+      "lng": 77.70641,
+      "deans": [
+         "Pulkit Kaushik"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/574303506298485"
+      }
+   },
+   {
+      "id": 163,
+      "country": "IOT",
+      "city": "mohali",
+      "lat": 30.697098,
+      "lng": 76.687935,
+      "deans": [
+         "Kövesd Viktor  and Horváth Péter ",
+         "Tibor Ormosi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/216268562387449"
+      }
+   },
+   {
+      "id": 164,
+      "country": "IOT",
+      "city": "nagpur",
+      "lat": 21.165422,
+      "lng": 79.08182,
+      "deans": [
+         "swapnil shindemeshram"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2149852385295178"
+      }
+   },
+   {
+      "id": 165,
+      "country": "IOT",
+      "city": "navi mumbai",
+      "lat": 19.013628,
+      "lng": 73.03902,
+      "deans": [
+         "Harsh Gupta"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/276563979603831"
+      }
+   },
+   {
+      "id": 166,
+      "country": "IOT",
+      "city": "noida",
+      "lat": 28.596712,
+      "lng": 77.32848,
+      "deans": [
+         "Jaskeerat Singh"
+      ]
+   },
+   {
+      "id": 167,
+      "country": "IOT",
+      "city": "tiruppur",
+      "lat": 11.108524,
+      "lng": 77.341064,
+      "deans": [
+         "prashanth"
+      ]
+   },
+   {
+      "id": 168,
+      "country": "IOT",
+      "city": "trichy",
+      "lat": 10.813669,
+      "lng": 78.67451,
+      "deans": [
+         "Wilbred Anto"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/254420928730204"
+      }
+   },
+   {
+      "id": 169,
+      "country": "IOT",
+      "city": "visakhapatnam",
+      "lat": 17.809813,
+      "lng": 83.38761,
+      "deans": [
+         "Grandhi Naga Srikanth"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/229224081109870"
+      }
+   },
+   {
+      "id": 170,
+      "country": "IRN",
+      "city": "Rasht",
+      "lat": 37.26822,
+      "lng": 49.589123,
+      "deans": [
+         "Erfan Miahi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/RashtSchoolOfAi"
+      }
+   },
+   {
+      "id": 171,
+      "country": "IRN",
+      "city": "Shiraz",
+      "lat": 29.591768,
+      "lng": 52.5837,
+      "deans": [
+         "Mohammad Razavi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/358266391379663"
+      }
+   },
+   {
+      "id": 172,
+      "country": "IRN",
+      "city": "Tehran",
+      "lat": 35.689198,
+      "lng": 51.388973,
+      "deans": [
+         "Hamidreza Hosseinkhani"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1101324036693616..."
+      }
+   },
+   {
+      "id": 173,
+      "country": "IRN",
+      "city": "Urmia",
+      "lat": 37.549805,
+      "lng": 45.07863,
+      "deans": [
+         "Sobhan Haggi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/314774005758723"
+      }
+   },
+   {
+      "id": 174,
+      "country": "IRN",
+      "city": "mazandaran or sari",
+      "lat": 36.565872,
+      "lng": 53.05863,
+      "deans": [
+         "reza mahmoudi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/412628765930778"
+      }
+   },
+   {
+      "id": 175,
+      "country": "IRN",
+      "city": "shiraz",
+      "lat": 29.591768,
+      "lng": 52.5837,
+      "deans": [
+         "hossein namazian"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/317262982174939"
+      }
+   },
+   {
+      "id": 176,
+      "country": "ISR",
+      "city": "Ashdod",
+      "lat": 31.80438,
+      "lng": 34.655315,
+      "deans": [
+         "David Loving"
+      ],
+      "meetup": "meetup.com/The-School-of-AI-Ashdod/"
+   },
+   {
+      "id": 177,
+      "country": "ISR",
+      "city": "Tel Aviv",
+      "lat": 32.0853,
+      "lng": 34.78177,
+      "deans": [
+         "Ron Weiner"
+      ],
+      "meetup": "meetup.com/Tel-Aviv-School-of-AI/"
+   },
+   {
+      "id": 178,
+      "country": "ISR",
+      "city": "jerusalem",
+      "lat": 31.768318,
+      "lng": 35.21371,
+      "deans": [
+         "Afeef Khateeb"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/661867057515495"
+      }
+   },
+   {
+      "id": 179,
+      "country": "ISR",
+      "city": "tel aviv",
+      "lat": 32.0853,
+      "lng": 34.78177,
+      "deans": [
+         "ron weiner"
+      ],
+      "social_media": {
+         "meetup": "meetup.com/Tel-Aviv-School-of-AI"
+      }
+   },
+   {
+      "id": 180,
+      "country": "ITA",
+      "city": "Milano",
+      "lat": 45.464203,
+      "lng": 9.189982,
+      "deans": [
+         "Sefa Oguz Saglam"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2125185790887697"
+      }
+   },
+   {
+      "id": 181,
+      "country": "ITA",
+      "city": "Verona",
+      "lat": 45.438618,
+      "lng": 10.993313,
+      "deans": [
+         "Cesare Montresor"
+      ],
+      "meetup": "meetup.com/Verona-School-of-AI/"
+   },
+   {
+      "id": 182,
+      "country": "JOR",
+      "city": "Amman",
+      "lat": 31.945366,
+      "lng": 35.92837,
+      "deans": [
+         "Ahmad Hammoudeh"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/RAIJO"
+      }
+   },
+   {
+      "id": 183,
+      "country": "JOR",
+      "city": "amman",
+      "lat": 31.945366,
+      "lng": 35.92837,
+      "deans": [
+         "mouaz al hosni"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/223021981718764"
+      }
+   },
+   {
+      "id": 184,
+      "country": "JPN",
+      "city": "Tokyo",
+      "lat": 35.689487,
+      "lng": 139.69171,
+      "deans": [
+         "Yunbum Choi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/tokyo.SchoolOfAI"
+      }
+   },
+   {
+      "id": 185,
+      "country": "JPN",
+      "city": "kochi",
+      "lat": 33.559708,
+      "lng": 133.53108,
+      "deans": [
+         "Aditya Ananthram"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/919540048230453"
+      }
+   },
+   {
+      "id": 186,
+      "country": "JPN",
+      "city": "tokyo",
+      "lat": 35.689487,
+      "lng": 139.69171,
+      "deans": [
+         "Keita Mimura"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/tokyo.SchoolOfAI"
+      }
+   },
+   {
+      "id": 187,
+      "country": "KEN",
+      "city": "eldoret",
+      "lat": 0.5142775,
+      "lng": 35.26978,
+      "deans": [
+         "Benson Ndora"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/961022270748792"
+      }
+   },
+   {
+      "id": 188,
+      "country": "KEN",
+      "city": "nairobi",
+      "lat": -1.2920659,
+      "lng": 36.821945,
+      "deans": [
+         "Brian Kimani"
+      ],
+      "meetup": "meetup.com/nairobi-school-of-ai/"
+   },
+   {
+      "id": 189,
+      "country": "LBN",
+      "city": "beirut",
+      "lat": 33.89379,
+      "lng": 35.501778,
+      "deans": [
+         "Hassan Daoud"
+      ]
+   },
+   {
+      "id": 190,
+      "country": "LKA",
+      "city": "Colombo",
+      "lat": 6.9270787,
+      "lng": 79.861244,
+      "deans": [
+         "Mithushan Jalangan"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/875695702626680"
+      }
+   },
+   {
+      "id": 191,
+      "country": "LTU",
+      "city": "Vilnius",
+      "lat": 54.687157,
+      "lng": 25.279652,
+      "deans": [
+         "facebook.com/groups/schoolofaiitabira",
+         "facebook.com/groups/maoschoolofai"
+      ],
+      "facebook": "facebook.com/groups/vilniusschoolo...",
+      "meetup": "meetup.com/Vilnius-School-of-AI/"
+   },
+   {
+      "id": 192,
+      "country": "MAR",
+      "city": "Casablanca",
+      "lat": 28.858696,
+      "lng": -112.02053,
+      "deans": [
+         "Firdaouss Doukkali"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/308293676400129"
+      }
+   },
+   {
+      "id": 193,
+      "country": "MAR",
+      "city": "Rabat",
+      "lat": 33.971592,
+      "lng": -6.849813,
+      "deans": [
+         "Ichrak Lafram"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/260496194785430"
+      }
+   },
+   {
+      "id": 194,
+      "country": "MEX",
+      "city": "Guadalajara",
+      "lat": 20.659698,
+      "lng": -103.34961,
+      "deans": [
+         "Luis Enrique Garcia Aguilera"
+      ],
+      "meetup": "meetup.com/Guadalajara-School-of-AI/"
+   },
+   {
+      "id": 195,
+      "country": "MEX",
+      "city": "Mexico City",
+      "lat": 19.436077,
+      "lng": -99.07191,
+      "deans": [
+         "Mario Adrian Cruz Espindola"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1965347220182362"
+      }
+   },
+   {
+      "id": 196,
+      "country": "MEX",
+      "city": "Puebla",
+      "lat": 19.04144,
+      "lng": -98.206276,
+      "deans": [
+         "facebook.com/groups/MississaugaSch...",
+         "facebook.com/groups/TorontoSchoolo..."
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/230216814343207"
+      }
+   },
+   {
+      "id": 197,
+      "country": "MEX",
+      "city": "mexico city",
+      "lat": 19.436077,
+      "lng": -99.07191,
+      "deans": [
+         "Eyal Schuller"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/19653472201823..."
+      }
+   },
+   {
+      "id": 198,
+      "country": "MEX",
+      "city": "monterrey",
+      "lat": 25.686615,
+      "lng": -100.31612,
+      "deans": [
+         "Adalberto gonzalez ayala"
+      ],
+      "meetup": "meetup.com/es/School-of-AI-Monterrey"
+   },
+   {
+      "id": 199,
+      "country": "MNE",
+      "city": "Podgorica",
+      "lat": 42.43042,
+      "lng": 19.259365,
+      "deans": [
+         "Djordje Dajkovic"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/856081987924693"
+      }
+   },
+   {
+      "id": 200,
+      "country": "MYS",
+      "city": "Penang",
+      "lat": 5.4163933,
+      "lng": 100.33268,
+      "deans": [
+         "CHAN ZHEN YU"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/229113357807595"
+      }
+   },
+   {
+      "id": 201,
+      "country": "MYS",
+      "city": "Petaling Jaya",
+      "lat": 3.127887,
+      "lng": 101.59449,
+      "deans": [
+         "Abdul Hakeem Narayanan"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/kualalumpursch..."
+      }
+   },
+   {
+      "id": 202,
+      "country": "MYS",
+      "city": "kuala lumpur",
+      "lat": 3.139003,
+      "lng": 101.68685,
+      "deans": [
+         "facebook.com/groups/913190355555507",
+         "facebook.com/groups/283645769090944",
+         "facebook.com/groups/17882716279534..."
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1948852865182229"
+      }
+   },
+   {
+      "id": 203,
+      "country": "NGA",
+      "city": "Lagos",
+      "lat": 6.5243793,
+      "lng": 3.3792057,
+      "deans": [
+         "facebook.com/groups/517351098699455",
+         "facebook.com/groups/DongguangSchoo..."
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/221903238498426"
+      }
+   },
+   {
+      "id": 204,
+      "country": "NGA",
+      "city": "Port Harcourt City",
+      "lat": 4.815554,
+      "lng": 7.0498443,
+      "deans": [
+         "Stephen Oladele "
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1890697607893147"
+      }
+   },
+   {
+      "id": 205,
+      "country": "NGA",
+      "city": "abuja",
+      "lat": 9.076479,
+      "lng": 7.398574,
+      "deans": [
+         "Adewale"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1026366924190543"
+      }
+   },
+   {
+      "id": 206,
+      "country": "NGA",
+      "city": "kano",
+      "lat": 0,
+      "lng": 0,
+      "deans": [
+         "Abdulhakim Bashir"
+      ]
+   },
+   {
+      "id": 207,
+      "country": "NLD",
+      "city": "Amsterdam",
+      "lat": 52.370216,
+      "lng": 4.895168,
+      "deans": "Suzana Bašić",
+      "social_media": {
+         "facebook": "facebook.com/groups/amsterdamai"
+      }
+   },
+   {
+      "id": 208,
+      "country": "NLD",
+      "city": "Amsterdam ",
+      "lat": 52.370216,
+      "lng": 4.895168,
+      "deans": [
+         "Shasank Dave"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/amsterdamai"
+      }
+   },
+   {
+      "id": 209,
+      "country": "NLD",
+      "city": "Dongen",
+      "lat": 51.628708,
+      "lng": 4.9382386,
+      "deans": [
+         "Jan Bours"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/667717753586119"
+      }
+   },
+   {
+      "id": 210,
+      "country": "NLD",
+      "city": "Enschede",
+      "lat": 52.22154,
+      "lng": 6.893662,
+      "deans": [
+         "Ernests Elksnis"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/248971199158333"
+      }
+   },
+   {
+      "id": 211,
+      "country": "NLD",
+      "city": "Rotterdam",
+      "lat": 51.92442,
+      "lng": 4.4777327,
+      "deans": [
+         "Bernardo Marques"
+      ],
+      "meetup": "meetup.com/Rotterdam-School-of-AI/"
+   },
+   {
+      "id": 212,
+      "country": "NLD",
+      "city": "Utrecht",
+      "lat": 52.090736,
+      "lng": 5.12142,
+      "deans": [
+         "Mariya Hendriksen"
+      ],
+      "meetup": "meetup.com/Utrecht-School-of-AI/"
+   },
+   {
+      "id": 213,
+      "country": "NLD",
+      "city": "utrecht",
+      "lat": 52.090736,
+      "lng": 5.12142,
+      "deans": [
+         "",
+         "facebook.com/groups/2109036949371017"
+      ],
+      "meetup": "meetup.com/Utrecht-School-of-AI/"
+   },
+   {
+      "id": 214,
+      "country": "NOR",
+      "city": "Oslo",
+      "lat": 59.913868,
+      "lng": 10.752245,
+      "deans": [
+         "Kelvin Sundli"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/osloSchoolOfAI"
+      }
+   },
+   {
+      "id": 215,
+      "country": "NOR",
+      "city": "Tromsø",
+      "lat": 69.64921,
+      "lng": 18.955324,
+      "deans": [
+         "Stein Roar Dahl"
+      ],
+      "meetup": "meetup.com/School-of-AI-Tromso/"
+   },
+   {
+      "id": 216,
+      "country": "NOR",
+      "city": "hamar",
+      "lat": 60.794533,
+      "lng": 11.067998,
+      "deans": [
+         "Terje Berg"
+      ],
+      "meetup": "meetup.com/Hamar-School-of-AI/"
+   },
+   {
+      "id": 217,
+      "country": "NPL",
+      "city": "Kathmandu",
+      "lat": 27.712425,
+      "lng": 85.31302,
+      "deans": [
+         "Ashish Bhatt"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/891347581074180"
+      }
+   },
+   {
+      "id": 218,
+      "country": "NPL",
+      "city": "gaur",
+      "lat": 0,
+      "lng": 0,
+      "deans": [
+         "Gyaneshwar"
+      ]
+   },
+   {
+      "id": 219,
+      "country": "NPL",
+      "city": "kathmandu",
+      "lat": 27.714003,
+      "lng": 85.311226,
+      "deans": [
+         "facebook.com/groups/2194416527258170",
+         "facebook.com/groups/1967306339958567...",
+         "facebook.com/groups/2234303310135527",
+         "facebook.com/groups/90522637300256..."
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/325400314670223"
+      }
+   },
+   {
+      "id": 220,
+      "country": "NPL",
+      "city": "pokhara",
+      "lat": 28.237988,
+      "lng": 83.99559,
+      "deans": [
+         "Pradip Dhakal"
+      ]
+   },
+   {
+      "id": 221,
+      "country": "PAK",
+      "city": "karachi",
+      "lat": 24.860735,
+      "lng": 67.00114,
+      "deans": [
+         "Syed Nouman Hasany"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/647517712291615"
+      }
+   },
+   {
+      "id": 222,
+      "country": "PAK",
+      "city": "lahore",
+      "lat": 31.52037,
+      "lng": 74.35875,
+      "deans": [
+         "facebook.com/groups/244726382840305",
+         "facebook.com/groups/261376047806170"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/AIPAK"
+      }
+   },
+   {
+      "id": 223,
+      "country": "PER",
+      "city": "Arequipa",
+      "lat": -16.409048,
+      "lng": -71.53745,
+      "deans": [
+         "Jordan Raji Lazo Cahua"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1847443272014227"
+      }
+   },
+   {
+      "id": 224,
+      "country": "PER",
+      "city": "puno",
+      "lat": -15.840221,
+      "lng": -70.02188,
+      "deans": [
+         "Wilder Andeson Gutierrez Quispe"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/681568348908647"
+      }
+   },
+   {
+      "id": 225,
+      "country": "PHL",
+      "city": "Makati",
+      "lat": 14.554729,
+      "lng": 121.024445,
+      "deans": [
+         "Mark Rode"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/ManilaSchoolOfAI"
+      }
+   },
+   {
+      "id": 226,
+      "country": "PHL",
+      "city": "goa",
+      "lat": 15.299327,
+      "lng": 74.12399,
+      "deans": [
+         "Bikash Dash"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/230377744329768"
+      }
+   },
+   {
+      "id": 227,
+      "country": "PHL",
+      "city": "quezon city",
+      "lat": 14.676042,
+      "lng": 121.0437,
+      "deans": "Elmer C. Peramo",
+      "social_media": {
+         "facebook": "facebook.com/groups/2216296111986044"
+      }
+   },
+   {
+      "id": 228,
+      "country": "POL",
+      "city": "Gdansk",
+      "lat": 54.352024,
+      "lng": 18.646639,
+      "deans": [
+         "Przemyslaw Jack Kabacinski"
+      ]
+   },
+   {
+      "id": 229,
+      "country": "POL",
+      "city": "Poznań",
+      "lat": 52.406376,
+      "lng": 16.925169,
+      "deans": [
+         "Bartosz Mikulski"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/poznanschoolofai",
+         "meetup": "meetup.com/Poznan-School-of-AI"
+      }
+   },
+   {
+      "id": 230,
+      "country": "POL",
+      "city": "Warszawa",
+      "lat": 52.229675,
+      "lng": 21.012228,
+      "deans": [
+         "Marcin Ryszard Kraszewski"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2114717511885657"
+      }
+   },
+   {
+      "id": 231,
+      "country": "PRI",
+      "city": "Mayagüez",
+      "lat": 18.201345,
+      "lng": -67.14516,
+      "deans": "Jesús Denizard",
+      "social_media": {
+         "facebook": "facebook.com/groups/msaipr"
+      }
+   },
+   {
+      "id": 232,
+      "country": "PRK",
+      "city": "Seoul",
+      "lat": 34.054214,
+      "lng": -118.301765,
+      "deans": "Tae-hoon, Koo (Kurt/구태훈)",
+      "social_media": {
+         "facebook": "facebook.com/groups/seoulschoolofai",
+         "meetup": "meetup.com/seoul-school-of-ai"
+      }
+   },
+   {
+      "id": 233,
+      "country": "PRT",
+      "city": "Lisboa",
+      "lat": 38.72225,
+      "lng": -9.139337,
+      "deans": "Carlos Eduardo Vilaça Milheiro",
+      "social_media": {
+         "facebook": "facebook.com/groups/LxSchoolOfAI"
+      }
+   },
+   {
+      "id": 234,
+      "country": "PRT",
+      "city": "lisbon",
+      "lat": 38.72225,
+      "lng": -9.139337,
+      "deans": [
+         "Lisbon School of AI"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/LxSchoolOfAI"
+      }
+   },
+   {
+      "id": 235,
+      "country": "ROU",
+      "city": "Bucharest",
+      "lat": 44.42677,
+      "lng": 26.10254,
+      "deans": [
+         "Paul Bricman"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/690595131287667"
+      }
+   },
+   {
+      "id": 236,
+      "country": "ROU",
+      "city": "Cluj Napoca",
+      "lat": 46.77747,
+      "lng": 23.599888,
+      "deans": [
+         "Marius Safta"
+      ],
+      "meetup": "meetup.com/meetup-group-twymNRcP/"
+   },
+   {
+      "id": 237,
+      "country": "RUS",
+      "city": "Moscow",
+      "lat": 55.755825,
+      "lng": 37.6173,
+      "deans": [
+         "Ruslan Miftakhov "
+      ],
+      "meetup": "meetup.com/Moscow-School-of-AI/"
+   },
+   {
+      "id": 238,
+      "country": "RUS",
+      "city": "krasnoyarsk",
+      "lat": 56.01528,
+      "lng": 92.89325,
+      "deans": [
+         "Zakhar Pashkin "
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/505708419888049"
+      }
+   },
+   {
+      "id": 239,
+      "country": "RUS",
+      "city": "tambov",
+      "lat": 52.7236,
+      "lng": 41.442307,
+      "deans": [
+         "Danila Perepechin"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2228881227368569"
+      }
+   },
+   {
+      "id": 240,
+      "country": "SAU",
+      "city": "Dammam",
+      "lat": 26.420683,
+      "lng": 50.088795,
+      "deans": [
+         "mohammed alawad"
+      ],
+      "meetup": "meetup.com/Dammam-School-of-AI/"
+   },
+   {
+      "id": 241,
+      "country": "SGP",
+      "city": "singapore",
+      "lat": 1.352083,
+      "lng": 103.81984,
+      "deans": [
+         "facebook.com/groups/1193070210849551",
+         "facebook.com/groups/2092920414294846"
+      ]
+   },
+   {
+      "id": 242,
+      "country": "SRB",
+      "city": "Niš, Serbia",
+      "lat": 43.320904,
+      "lng": 21.89576,
+      "deans": "Adam Radivojević",
+      "social_media": {
+         "facebook": "facebook.com/groups/NIS.schoolofai"
+      }
+   },
+   {
+      "id": 243,
+      "country": "SWE",
+      "city": "Stockholm",
+      "lat": 59.329323,
+      "lng": 18.06858,
+      "deans": [
+         "Ola Cornelius"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1462893550509622"
+      }
+   },
+   {
+      "id": 244,
+      "country": "SWE",
+      "city": "stockholm",
+      "lat": 59.329323,
+      "lng": 18.06858,
+      "deans": [
+         "Syed Awais Ahmad"
+      ]
+   },
+   {
+      "id": 245,
+      "country": "SYR",
+      "city": "Damascus",
+      "lat": 33.51381,
+      "lng": 36.276527,
+      "deans": [
+         "facebook.com/groups/261533141350121",
+         "facebook.com/groups/522325514885355"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/686034448396626"
+      }
+   },
+   {
+      "id": 246,
+      "country": "SYR",
+      "city": "Latakia",
+      "lat": 35.54071,
+      "lng": 35.795265,
+      "deans": [
+         "Hasan Ghassan Dayoub"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/19021692732273..."
+      }
+   },
+   {
+      "id": 247,
+      "country": "THA",
+      "city": "Bangkok",
+      "lat": 13.7563305,
+      "lng": 100.50176,
+      "deans": [
+         "Charin Polpanumas"
+      ],
+      "facebook": "facebook.com/groups/755699171268759",
+      "meetup": "meetup.com/Bangkok-School-of-AI/"
+   },
+   {
+      "id": 248,
+      "country": "THA",
+      "city": "bangkok",
+      "lat": 13.7563305,
+      "lng": 100.50176,
+      "deans": [
+         "Naman Narayan"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/68625698839664..."
+      }
+   },
+   {
+      "id": 249,
+      "country": "TTO",
+      "city": "St. Augustine",
+      "lat": 29.901243,
+      "lng": -81.31243,
+      "deans": [
+         "Sergio Mathurin"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1914668508626262"
+      }
+   },
+   {
+      "id": 250,
+      "country": "TUN",
+      "city": "Sousse",
+      "lat": 35.8245,
+      "lng": 10.634584,
+      "deans": [
+         "Amine Ben Ali"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/TunisiaSchoolofAI"
+      }
+   },
+   {
+      "id": 251,
+      "country": "TUN",
+      "city": "sfax _monastir _sousse and Tunis",
+      "lat": 34.739822,
+      "lng": 10.760019,
+      "deans": [
+         "zied khayechi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2179189759031619"
+      }
+   },
+   {
+      "id": 252,
+      "country": "TUR",
+      "city": "İstanbul",
+      "lat": 41.00873,
+      "lng": 28.953077,
+      "deans": "Tolga Oğuz",
+      "social_media": {
+         "facebook": "facebook.com/groups/413211812536128"
+      }
+   },
+   {
+      "id": 253,
+      "country": "UGA",
+      "city": "Kampala",
+      "lat": 0.3475964,
+      "lng": 32.58252,
+      "deans": [
+         "Mugume Twinamatsiko Atwine"
+      ],
+      "meetup": "meetup.com/Kampala-School-of-AI/"
+   },
+   {
+      "id": 254,
+      "country": "UGA",
+      "city": "kampala",
+      "lat": 0.3475964,
+      "lng": 32.58252,
+      "deans": [
+         "Mutebi Tonny"
+      ]
+   },
+   {
+      "id": 255,
+      "country": "UMI",
+      "city": "Appleton",
+      "lat": 44.26217,
+      "lng": -88.41053,
+      "deans": [
+         "Matthew David"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/235244053783689"
+      }
+   },
+   {
+      "id": 256,
+      "country": "UMI",
+      "city": "Austin",
+      "lat": 30.200428,
+      "lng": -97.76355,
+      "deans": [
+         "Bobby Sawey"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/304437056976678",
+         "meetup": "meetup.com/Austin-Artificial-Intel..."
+      }
+   },
+   {
+      "id": 257,
+      "country": "UMI",
+      "city": "Charlotte",
+      "lat": 35.169346,
+      "lng": -80.97109,
+      "deans": [
+         "",
+         ""
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/220166025297103"
+      }
+   },
+   {
+      "id": 258,
+      "country": "UMI",
+      "city": "Chicago",
+      "lat": 41.953568,
+      "lng": -87.700066,
+      "deans": [
+         "Hiral Mehta"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/232050507503725"
+      }
+   },
+   {
+      "id": 259,
+      "country": "UMI",
+      "city": "Cincinnati, OH",
+      "lat": 39.10312,
+      "lng": -84.51202,
+      "deans": [
+         "Brian Woodward"
+      ],
+      "meetup": "meetup.com/Cincinnati-School-of-AI/"
+   },
+   {
+      "id": 260,
+      "country": "UMI",
+      "city": "College Park",
+      "lat": 38.98692,
+      "lng": -76.94255,
+      "deans": [
+         "Harshvardhan Uppaluru"
+      ],
+      "meetup": "meetup.com/College-Park-School-of-AI/"
+   },
+   {
+      "id": 261,
+      "country": "UMI",
+      "city": "Columbus, OH",
+      "lat": 37.158627,
+      "lng": -93.28487,
+      "deans": [
+         "Kranti Asapu"
+      ],
+      "meetup": "meetup.com/Columbus-School-of-AI/"
+   },
+   {
+      "id": 262,
+      "country": "UMI",
+      "city": "Denver, Colorado",
+      "lat": 39.41457,
+      "lng": -104.87217,
+      "deans": [
+         "Ido Samuelson"
+      ],
+      "social_media": {
+         "meetup": "meetup.com/denver-school-of-ai"
+      }
+   },
+   {
+      "id": 263,
+      "country": "UMI",
+      "city": "Frisco",
+      "lat": 33.035347,
+      "lng": -96.89851,
+      "deans": [
+         "Sivabalan Kannan"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/224403534910583"
+      }
+   },
+   {
+      "id": 264,
+      "country": "UMI",
+      "city": "HOUSTON / SUGAR LAND",
+      "lat": 29.575232,
+      "lng": -95.65045,
+      "deans": [
+         "Azam Zariff"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2242002632701563"
+      }
+   },
+   {
+      "id": 265,
+      "country": "UMI",
+      "city": "Hartford",
+      "lat": 41.76062,
+      "lng": -72.74036,
+      "deans": [
+         "Chris Morris"
+      ],
+      "meetup": "meetup.com/Hartford-School-of-AI/"
+   },
+   {
+      "id": 266,
+      "country": "UMI",
+      "city": "Las Vegas",
+      "lat": 37.158627,
+      "lng": -93.28487,
+      "deans": [
+         "",
+         ""
+      ],
+      "facebook": "facebook.com/groups/VegasAI",
+      "meetup": "meetup.com/Las-Vegas-School-of-AI/"
+   },
+   {
+      "id": 267,
+      "country": "UMI",
+      "city": "Minneapolis",
+      "lat": 44.977753,
+      "lng": -93.26501,
+      "deans": [
+         "Theresa Thoraldson"
+      ],
+      "meetup": "meetup.com/Minneapolis-School-of-AI/"
+   },
+   {
+      "id": 268,
+      "country": "UMI",
+      "city": "Orlando",
+      "lat": 28.593699,
+      "lng": -81.35083,
+      "deans": [
+         "John Muchovej"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/schoolofai.orl..."
+      }
+   },
+   {
+      "id": 269,
+      "country": "UMI",
+      "city": "Philadelphia",
+      "lat": 39.964672,
+      "lng": -75.17413,
+      "deans": [
+         "",
+         ""
+      ],
+      "facebook": "facebook.com/groups/250530298906131",
+      "meetup": "meetup.com/Philadelphia-School-of-AI/"
+   },
+   {
+      "id": 270,
+      "country": "UMI",
+      "city": "Pomona",
+      "lat": 34.107754,
+      "lng": -117.85698,
+      "deans": [
+         "Angel Jimenez"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1916074678452902"
+      }
+   },
+   {
+      "id": 271,
+      "country": "UMI",
+      "city": "Portland, OR",
+      "lat": 45.417397,
+      "lng": -122.74202,
+      "deans": [
+         "Jess S"
+      ],
+      "meetup": "meetup.com/Portland-School-of-AI/"
+   },
+   {
+      "id": 272,
+      "country": "UMI",
+      "city": "Raleigh ",
+      "lat": 35.79011,
+      "lng": -78.65967,
+      "deans": [
+         "Jubeen Shah"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/815556825500875"
+      }
+   },
+   {
+      "id": 273,
+      "country": "UMI",
+      "city": "Richmond, VA",
+      "lat": 37.652016,
+      "lng": -77.618225,
+      "deans": [
+         "Adam Eubanks"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/278182822984264"
+      }
+   },
+   {
+      "id": 274,
+      "country": "UMI",
+      "city": "Saint Louis",
+      "lat": 38.627003,
+      "lng": -90.1994,
+      "deans": [
+         "Vijaybhasker Pagidoju"
+      ],
+      "meetup": "meetup.com/SaintLouisSchoolofAI/"
+   },
+   {
+      "id": 275,
+      "country": "UMI",
+      "city": "San Francisco",
+      "lat": 37.76273,
+      "lng": -122.39615,
+      "deans": [
+         "Sergii Garkusha"
+      ],
+      "social_media": {
+         "meetup": "meetup.com/san-francisco-school-of..."
+      }
+   },
+   {
+      "id": 276,
+      "country": "UMI",
+      "city": "Seattle",
+      "lat": 47.613342,
+      "lng": -122.346054,
+      "deans": [
+         "",
+         ""
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2117238888526153"
+      }
+   },
+   {
+      "id": 277,
+      "country": "UMI",
+      "city": "bentonville",
+      "lat": 36.356945,
+      "lng": -94.182945,
+      "deans": [
+         "Harshavardhan R Nannur"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/589210834814334"
+      }
+   },
+   {
+      "id": 278,
+      "country": "UMI",
+      "city": "chicago",
+      "lat": 41.953568,
+      "lng": -87.700066,
+      "deans": [
+         "Vedant Pathak"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/232050507503725"
+      }
+   },
+   {
+      "id": 279,
+      "country": "UMI",
+      "city": "cincinnati",
+      "lat": 39.10312,
+      "lng": -84.51202,
+      "deans": [
+         "Jayson Mazziotti"
+      ],
+      "meetup": "meetup.com/Cincinnati-School-of-AI/"
+   },
+   {
+      "id": 280,
+      "country": "UMI",
+      "city": "detroit",
+      "lat": 42.331154,
+      "lng": -83.07392,
+      "deans": [
+         "",
+         ""
+      ],
+      "facebook": "facebook.com/groups/2089644244622653",
+      "meetup": "meetup.com/Motor-City-School-of-AI/"
+   },
+   {
+      "id": 281,
+      "country": "UMI",
+      "city": "frisco",
+      "lat": 33.035347,
+      "lng": -96.89851,
+      "deans": [
+         "vamsi vegi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/656465488074120"
+      }
+   },
+   {
+      "id": 282,
+      "country": "UMI",
+      "city": "indianapolis",
+      "lat": 39.909046,
+      "lng": -86.219826,
+      "deans": [
+         "Joe Burns"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/IndySchoolOfAI"
+      }
+   },
+   {
+      "id": 283,
+      "country": "UMI",
+      "city": "jersey city",
+      "lat": 40.7447,
+      "lng": -73.98186,
+      "deans": [
+         "Sravanthi Kanchi"
+      ]
+   },
+   {
+      "id": 284,
+      "country": "UMI",
+      "city": "las vegas",
+      "lat": 37.158627,
+      "lng": -93.28487,
+      "deans": [
+         "Anthony Marquette"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/VegasAI"
+      }
+   },
+   {
+      "id": 285,
+      "country": "UMI",
+      "city": "leesburg",
+      "lat": 0,
+      "lng": 0,
+      "deans": [
+         "Sudha Mantri"
+      ],
+      "meetup": "meetup.com/Leesburg-School-of-AI/"
+   },
+   {
+      "id": 286,
+      "country": "UMI",
+      "city": "los angeles",
+      "lat": 34.05308,
+      "lng": -118.264084,
+      "deans": [
+         "meetup.com/Bern-Artificial-Intelli...",
+         "",
+         ""
+      ],
+      "social_media": {
+         "meetup": "meetup.com/Los-Angeles-School-of-A..."
+      }
+   },
+   {
+      "id": 287,
+      "country": "UMI",
+      "city": "memphis",
+      "lat": 35.149536,
+      "lng": -90.04898,
+      "deans": [
+         "Valter Heger"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1676417215820744"
+      }
+   },
+   {
+      "id": 288,
+      "country": "UMI",
+      "city": "minneapolis",
+      "lat": 44.912247,
+      "lng": -93.3274,
+      "deans": [
+         "Mohamed Hassan"
+      ]
+   },
+   {
+      "id": 289,
+      "country": "UMI",
+      "city": "owasso",
+      "lat": 36.26954,
+      "lng": -95.85471,
+      "deans": [
+         "Daniel B Looper"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/owassoschoolofai"
+      }
+   },
+   {
+      "id": 290,
+      "country": "UMI",
+      "city": "phoenix",
+      "lat": 33.626274,
+      "lng": -112.01982,
+      "deans": [
+         "",
+         ""
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/236839670500772",
+         "meetup": "meetup.com/Phoenix-School-of-AI"
+      }
+   },
+   {
+      "id": 291,
+      "country": "UMI",
+      "city": "pompano beach",
+      "lat": 25.792103,
+      "lng": -80.12911,
+      "deans": [
+         "Slavo Popovic"
+      ]
+   },
+   {
+      "id": 292,
+      "country": "UMI",
+      "city": "princeton",
+      "lat": 40.34399,
+      "lng": -74.65145,
+      "deans": [
+         "",
+         ""
+      ],
+      "meetup": "meetup.com/Princeton-School-of-AI/"
+   },
+   {
+      "id": 293,
+      "country": "UMI",
+      "city": "provo",
+      "lat": 40.233845,
+      "lng": -111.65853,
+      "deans": [
+         "Jayden William Stuver"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/309588109617474"
+      }
+   },
+   {
+      "id": 294,
+      "country": "UMI",
+      "city": "tacoma",
+      "lat": 39.18812,
+      "lng": -96.554016,
+      "deans": [
+         "DJ Porter"
+      ]
+   },
+   {
+      "id": 295,
+      "country": "UMI",
+      "city": "tallahassee",
+      "lat": 30.479795,
+      "lng": -84.317635,
+      "deans": [
+         "Brandon cote"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2001472400163525"
+      }
+   },
+   {
+      "id": 296,
+      "country": "URY",
+      "city": "montevideo",
+      "lat": -34.90111,
+      "lng": -56.16453,
+      "deans": [
+         "Rodrigo Beceiro"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/279156976201277"
+      }
+   },
+   {
+      "id": 297,
+      "country": "USA",
+      "city": "Allentown",
+      "lat": 40.602295,
+      "lng": -75.47141,
+      "deans": [
+         "Bryan James McNally"
+      ],
+      "facebook": "facebook.com/groups/allentownschoo...",
+      "meetup": "meetup.com/Allentown-School-of-AI/"
+   },
+   {
+      "id": 298,
+      "country": "USA",
+      "city": "Amherst, MA",
+      "lat": 42.373222,
+      "lng": -72.51985,
+      "deans": [
+         "Sarim Ahmed"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/877536242437678"
+      }
+   },
+   {
+      "id": 299,
+      "country": "USA",
+      "city": "Buffalo, New York ",
+      "lat": 42.886448,
+      "lng": -78.87837,
+      "deans": [
+         "Gregory Shavers Jr"
+      ],
+      "facebook": "facebook.com/groups/497569094037650",
+      "meetup": "meetup.com/Buffalo-School-of-AI/"
+   },
+   {
+      "id": 300,
+      "country": "USA",
+      "city": "Houston",
+      "lat": 29.760427,
+      "lng": -95.369804,
+      "deans": [
+         "Ezra Schroeder"
+      ],
+      "meetup": "meetup.com/Houston-School-of-AI/"
+   },
+   {
+      "id": 301,
+      "country": "USA",
+      "city": "Jersey City ",
+      "lat": 40.728157,
+      "lng": -74.077644,
+      "deans": [
+         "Kevin Patel"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/661813394190042"
+      }
+   },
+   {
+      "id": 302,
+      "country": "USA",
+      "city": "Jersey City NJ",
+      "lat": 40.728157,
+      "lng": -74.077644,
+      "deans": [
+         "Sravanthi Kanchi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/661813394190042"
+      }
+   },
+   {
+      "id": 303,
+      "country": "USA",
+      "city": "San Jose",
+      "lat": 37.338207,
+      "lng": -121.88633,
+      "deans": [
+         "Shiva Gopalan"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/466448313833215"
+      }
+   },
+   {
+      "id": 304,
+      "country": "USA",
+      "city": "Tampa",
+      "lat": 27.950575,
+      "lng": -82.45718,
+      "deans": [
+         "Jimmy Murray"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/school.of.ai.tampa"
+      }
+   },
+   {
+      "id": 305,
+      "country": "VEN",
+      "city": "caracas",
+      "lat": 10.480594,
+      "lng": -66.9036,
+      "deans": "Antonio Rueda-Toicen",
+      "social_media": {
+         "facebook": "facebook.com/groups/school.of.ai.c..."
+      }
+   },
+   {
+      "id": 306,
+      "country": "VEN",
+      "city": "maracaibo",
+      "lat": 10.561305,
+      "lng": -71.6377,
+      "deans": [
+         "gustavo cabezal"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1806153769502890"
+      }
+   },
+   {
+      "id": 307,
+      "country": "VNM",
+      "city": "Ha Noi",
+      "lat": 21.027765,
+      "lng": 105.83416,
+      "deans": [
+         "",
+         ""
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/309251763159085"
+      }
+   },
+   {
+      "id": 308,
+      "country": "ZAF",
+      "city": "Cape Town",
+      "lat": -33.92487,
+      "lng": 18.424055,
+      "deans": [
+         "Ivor Pietersen"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2152360028420280"
+      }
+   },
+   {
+      "id": 309,
+      "country": "ZAF",
+      "city": "Durban",
+      "lat": -29.85868,
+      "lng": 31.021841,
+      "deans": [
+         "Abuobayda Shabat"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/261838534540739"
+      }
+   },
+   {
+      "id": 310,
+      "country": "ZAF",
+      "city": "Johannesburg",
+      "lat": -26.204103,
+      "lng": 28.047304,
+      "deans": [
+         "",
+         ""
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1849175041814791"
+      }
+   },
+   {
+      "id": 311,
+      "country": "ZAF",
+      "city": "cape town",
+      "lat": -33.92487,
+      "lng": 18.424055,
+      "deans": [
+         "Tshepo Moagi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/2152360028420280"
+      }
+   },
+   {
+      "id": 312,
+      "country": "ZAF",
+      "city": "pretoria",
+      "lat": -25.747868,
+      "lng": 28.22927,
+      "deans": [
+         "Thabo Mahlangu"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1763988780363988"
+      }
+   },
+   {
+      "id": 313,
+      "country": "ZMB",
+      "city": "Lusaka",
+      "lat": -15.387526,
+      "lng": 28.322817,
+      "deans": [
+         "Trevor Philip Majula "
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1031386933690688"
+      }
+   },
+   {
+      "id": 314,
+      "country": "ZWE",
+      "city": "Harare",
+      "lat": -17.825165,
+      "lng": 31.03351,
+      "deans": [
+         "Simbarashe Timothy Motsi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/HarareSchoolOfAI"
+      }
+   },
+   {
+      "id": 315,
+      "country": "ZWE",
+      "city": "mutare",
+      "lat": -18.97577,
+      "lng": 32.650352,
+      "deans": [
+         "James Singizi"
+      ],
+      "social_media": {
+         "facebook": "facebook.com/groups/1101361070002709"
+      }
+   }
+]

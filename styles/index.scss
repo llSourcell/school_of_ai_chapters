@@ -1,0 +1,45 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+body {
+  font: 100%/1.3em "Helvetica Neue", HelveticaNeue, Verdana, Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #fff;
+}
+
+tr { height: 65px }
+
+
+#map {
+  padding-top: 15px;
+}
+
+.social_media {
+  display: inline-block;
+  background-size: contain;
+  margin-left: 5px;
+}
+
+.meetup {
+  width: 50px;
+  height: 50px;
+  background-image: url('meetup.svg');
+}
+.facebook {
+  width: 50px;
+  height: 50px;
+  background-image: url('facebook.svg');
+}
+.twitter {
+  width: 50px;
+  height: 50px;
+  background-image: url('twitter.svg');
+}
+.website {
+  width: 50px;
+  height: 50px;
+  background-image: url('website.svg');
+}
